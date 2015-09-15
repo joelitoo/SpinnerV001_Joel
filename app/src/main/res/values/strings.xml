@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SpinnerV001_Joel</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_animals">Animals</string>
+    <string name="title_activity_caballo">Caballo</string>
+    <string name="title_activity_conejo">Conejo</string>
+    <string name="title_activity_mono">Mono</string>
+    <string name="title_activity_perro">Perro</string>
+    <string name="title_activity_acerca">Acerca</string>
+    <string name="title_activity_tigre">Tigre</string>
+    <string name="title_activity_venado">Venado</string>
+    <string name="title_activity_ardilla">Ardilla</string>
+    <string name="title_activity_chriss">Chriss</string>
+    <string name="title_activity_jimboy">Jimboy</string>
+    <string name="title_activity_juan">Juan</string>
+    <string name="title_activity_kevin">Kevin</string>
+    <string name="title_activity_liam">Liam</string>
+    <string name="title_activity_principal__animal">Principal_Animal</string>
+    <string name="title_activity_principal__actor">Principal_Actor</string>
+</resources>

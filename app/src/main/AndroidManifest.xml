@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.toshiba.spinnerv001_joel" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Caballo"
+            android:label="@string/title_activity_caballo" >
+        </activity>
+        <activity
+            android:name=".Conejo"
+            android:label="@string/title_activity_conejo" >
+        </activity>
+        <activity
+            android:name=".Mono"
+            android:label="@string/title_activity_mono" >
+        </activity>
+        <activity
+            android:name=".Perro"
+            android:label="@string/title_activity_perro" >
+        </activity>
+        <activity
+            android:name=".Tigre"
+            android:label="@string/title_activity_tigre" >
+        </activity>
+        <activity
+            android:name=".Venado"
+            android:label="@string/title_activity_venado" >
+        </activity>
+        <activity
+            android:name=".Ardilla"
+            android:label="@string/title_activity_ardilla" >
+        </activity>
+        <activity
+            android:name=".Chriss"
+            android:label="@string/title_activity_chriss" >
+        </activity>
+        <activity
+            android:name=".Jimboy"
+            android:label="@string/title_activity_jimboy" >
+        </activity>
+        <activity
+            android:name=".Juan"
+            android:label="@string/title_activity_juan" >
+        </activity>
+        <activity
+            android:name=".Kevin"
+            android:label="@string/title_activity_kevin" >
+        </activity>
+        <activity
+            android:name=".Liam"
+            android:label="@string/title_activity_liam" >
+        </activity>
+        <activity
+            android:name=".Acerca"
+            android:label="@string/title_activity_acerca" >
+        </activity>
+    </application>
+
+</manifest>
